@@ -11,3 +11,5 @@ print(my_motd)
 
 my_port = 22
 my_throughput = 1.75
+print(my_port)
+print(my_throughput)
